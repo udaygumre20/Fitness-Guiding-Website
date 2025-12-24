@@ -36,7 +36,7 @@ Images for workouts and UI
 
 Download or clone this repository
 
-git clone https://github.com/your-username/Unite-Active-Pulse.git
+git clone https://github.com/udaygumre20/Fitness-Guiding-Website.git
 
 > Open the project folder
 
